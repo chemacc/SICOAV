@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="SICOAV_A.Controles.IB_CTRL_CNF_Colisiones"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SICOAV_A.Controles"
+             mc:Ignorable="d" 
+             Height="278.983" Width="400">
+    <Grid Background="#FF222323">
+        <TextBlock x:Name="txt_Num" Margin="28,10,195,252" TextWrapping="Wrap" Text="Distancia min entre aviones" Foreground="#FF898B8A" FontFamily="Leelawadee UI" FontSize="14"/>
+        <TextBox x:Name="txt_entre" Margin="210,10,117,246" TextWrapping="Wrap" Text="12345" SelectionBrush="{x:Null}" Foreground="#FFD4D4D4" Background="#FF284B4B" BorderBrush="#FF1B3232" FontFamily="Leelawadee UI" FontSize="14" TextAlignment="Right" IsEnabled="False"/>
+        <TextBlock x:Name="txt_Num_Copy" Margin="28,44,195,218" TextWrapping="Wrap" Text="Incremento altura" Foreground="#FF898B8A" FontFamily="Leelawadee UI" FontSize="14"/>
+        <TextBox x:Name="txt_altura" Margin="210,44,117,212" TextWrapping="Wrap" Text="12345" SelectionBrush="{x:Null}" Foreground="#FFD4D4D4" Background="#FF284B4B" BorderBrush="#FF1B3232" FontFamily="Leelawadee UI" FontSize="14" TextAlignment="Right" IsEnabled="False"/>
+        <TextBlock x:Name="txt_Num_Copy1" Margin="28,81,195,181" TextWrapping="Wrap" Text="Distancia min colision." Foreground="#FF898B8A" FontFamily="Leelawadee UI" FontSize="14"/>
+        <TextBox x:Name="txt_distancia" Margin="210,81,117,175" TextWrapping="Wrap" Text="12345" SelectionBrush="{x:Null}" Foreground="#FFD4D4D4" Background="#FF284B4B" BorderBrush="#FF1B3232" FontFamily="Leelawadee UI" FontSize="14" TextAlignment="Right" IsEnabled="False"/>
+        <Button x:Name="cmd_plus_entre" Content="+" HorizontalAlignment="Left" Margin="288,10,0,0" VerticalAlignment="Top" Width="24" Background="#FF033E3E" Foreground="#FF151414" BorderBrush="#FF30B8B8" Height="23" FontSize="14" Click="cmd_plus_entre_Click"/>
+        <Button x:Name="cmd_min_entre" Content="-" HorizontalAlignment="Left" Margin="317,10,0,0" VerticalAlignment="Top" Width="24" Background="#FF033E3E" Foreground="#FF151414" BorderBrush="#FF30B8B8" Height="23" FontSize="14" Click="cmd_min_entre_Click"/>
+        <Button x:Name="cmd_plus_altura" Content="+" HorizontalAlignment="Left" Margin="288,43,0,0" VerticalAlignment="Top" Width="24" Background="#FF033E3E" Foreground="#FF151414" BorderBrush="#FF30B8B8" Height="23" FontSize="14" Click="cmd_plus_altura_Click"/>
+        <Button x:Name="cmd_min_altura" Content="-" HorizontalAlignment="Left" Margin="317,43,0,0" VerticalAlignment="Top" Width="24" Background="#FF033E3E" Foreground="#FF151414" BorderBrush="#FF30B8B8" Height="23" FontSize="14" Click="cmd_min_altura_Click"/>
+        <Button x:Name="cmd_plus_distancia" Content="+" HorizontalAlignment="Left" Margin="288,80,0,0" VerticalAlignment="Top" Width="24" Background="#FF033E3E" Foreground="#FF151414" BorderBrush="#FF30B8B8" Height="23" FontSize="14" Click="cmd_plus_distancia_Click"/>
+        <Button x:Name="cmd_min_distancia" Content="-" HorizontalAlignment="Left" Margin="317,80,0,0" VerticalAlignment="Top" Width="24" Background="#FF033E3E" Foreground="#FF151414" BorderBrush="#FF30B8B8" Height="23" FontSize="14" Click="cmd_min_distancia_Click"/>
+
+    </Grid>
+</UserControl>

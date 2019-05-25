@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="SICOAV_A.Controles.IB_CTRL_PanelAvion_A"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SICOAV_A.Controles"
+             mc:Ignorable="d" 
+             Height="40" Width="145" MouseDown="UserControl_MouseDown" MouseEnter="UserControl_MouseEnter" MouseLeave="UserControl_MouseLeave">
+    <Grid>
+        <Rectangle x:Name="RectangleSelected" Fill="#FF94B27D" HorizontalAlignment="Left" StrokeThickness="2" Width="2" Margin="0,2" Visibility="Collapsed"/>
+        <Rectangle Fill="#FF739C52" StrokeThickness="2" Margin="0,2,17,2" HorizontalAlignment="Right" Width="5"/>
+        <Grid x:Name="grid_pp" Margin="2,2,27,2" Background="#FF222323">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="17*"/>
+                <RowDefinition Height="12*"/>
+                <RowDefinition Height="12*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0*"/>
+                <ColumnDefinition Width="53"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <TextBlock x:Name="txt_Num" Margin="0,-2,0,0" TextWrapping="Wrap" Text="IB234" Foreground="#FF898B8A" FontFamily="Leelawadee UI" FontSize="14" TextAlignment="Center" Grid.Column="1"/>
+            <TextBlock x:Name="txt_callsing" Margin="0,-2,0,9" TextWrapping="Wrap" Text="AER4567" Foreground="#FF898B8A" FontFamily="Leelawadee UI" FontSize="14" TextAlignment="Center" Grid.Column="2" Grid.RowSpan="2"/>
+            <TextBlock x:Name="txt_lat" TextWrapping="Wrap" Text="12º 25'23'' N" Foreground="#FF4E5B63" FontFamily="Leelawadee UI" FontSize="9" TextAlignment="Center" Grid.Column="1" Grid.Row="1"/>
+            <TextBlock x:Name="txt_lon" TextWrapping="Wrap" Text="12º 25'23'' N" Foreground="#FF4E5B63" FontFamily="Leelawadee UI" FontSize="9" TextAlignment="Center" Grid.Column="2" Grid.Row="1"/>
+            <Grid Grid.ColumnSpan="2" Grid.Column="1" HorizontalAlignment="Left" Grid.Row="2" Width="200">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="21*"/>
+                    <ColumnDefinition Width="24*"/>
+                    <ColumnDefinition Width="15*"/>
+                    <ColumnDefinition Width="40*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock x:Name="txt_altura" TextWrapping="Wrap" Text="12000 ft" Foreground="#FF4E5B63" FontFamily="Leelawadee UI" FontSize="9" TextAlignment="Center" Grid.Column="1" Margin="0,-2,0,0" Height="12" VerticalAlignment="Bottom"/>
+                <TextBlock x:Name="txt_rumbo" TextWrapping="Wrap" Text="124" Foreground="#FF4E5B63" FontFamily="Leelawadee UI" FontSize="9" TextAlignment="Center" Margin="0,-2,0,0" Height="12" VerticalAlignment="Bottom"/>
+            </Grid>
+        </Grid>
+        <Rectangle Fill="#FF2C382A" Margin="0,2" StrokeThickness="2" HorizontalAlignment="Right" Width="17"/>
+
+    </Grid>
+</UserControl>

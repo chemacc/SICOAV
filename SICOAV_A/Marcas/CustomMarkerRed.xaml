@@ -1,0 +1,59 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:marcas="clr-namespace:SICOAV_A.Marcas"
+    x:Class="SICOAV_A.Marcas.CustomMarkerRed"
+	Height="20" Width="20" Opacity="10" RenderTransformOrigin="0.5,0.5">
+
+    <Grid x:Name="grid_main" Margin="0,0,0,0">
+       
+        <Ellipse HorizontalAlignment="Left" Stroke="#FF0A83FB" Width="20" Margin="0,0,0,0" Height="20"/>
+        <Image HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="20" Source="/SICOAV_A;component/imagenes/icons8-airplane-mode-on-96.png" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="{Binding Path=Angulo}"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Grid Margin="22,-1,-170,-2" Background="#E50B8BC7" Visibility="Collapsed">
+
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition Height="0*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="39*"/>
+                <ColumnDefinition Width="60*"/>
+                <ColumnDefinition Width="10*"/>
+                <ColumnDefinition Width="42*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock x:Name="txt_nombre_vuelo" Grid.Column="2" TextWrapping="Wrap" Text="AE345TG34" Foreground="#FFFFB900" FontFamily="SimSun-ExtB" TextAlignment="Right" Margin="0,0,1,0" Grid.ColumnSpan="2"/>
+            <TextBlock x:Name="txt_rumbo_vuelo" HorizontalAlignment="Left" TextWrapping="Wrap" Text="200" Width="39" Foreground="#FFFFB900" FontFamily="SimSun-ExtB" TextAlignment="Center"/>
+            <TextBlock x:Name="txt_velocidad_vuelo" TextWrapping="Wrap" Text="200 Km/h" Foreground="#FFFFB900" FontFamily="SimSun-ExtB" TextAlignment="Center" Grid.Column="1" Grid.Row="1" Margin="1,0,0,0" Grid.ColumnSpan="2"/>
+            <TextBlock x:Name="txt_altidud_vuelo" TextWrapping="Wrap" Text="8000 m" Foreground="#FFFFB900" FontFamily="SimSun-ExtB" Grid.Row="1" TextAlignment="Right"/>
+            <Rectangle x:Name="RectangleSeleccion" Grid.ColumnSpan="4" HorizontalAlignment="Left" Height="26" Grid.RowSpan="2" Stroke="#FFF0842A" VerticalAlignment="Top" Width="151" StrokeThickness="2" Visibility="Collapsed"/>
+            <TextBlock x:Name="txt_tiempo" HorizontalAlignment="Left" TextWrapping="Wrap" Text="200" Width="60" Foreground="#FFFFB900" FontFamily="SimSun-ExtB" TextAlignment="Center" Grid.Column="1"/>
+            <Grid x:Name="grid_historico" Grid.Column="3" Grid.Row="1" Visibility="Hidden">
+                <Rectangle x:Name="rectangle_histórico" HorizontalAlignment="Left" Height="13" StrokeThickness="2" VerticalAlignment="Top" Width="42" Fill="#FFF51111"/>
+                <TextBlock HorizontalAlignment="Left" Height="8" TextWrapping="Wrap" Text="SIN DATOS" VerticalAlignment="Top" Width="42" Foreground="White" FontFamily="OCR A Extended" FontSize="7" Margin="0,3,0,0" TextAlignment="Center"/>
+
+            </Grid>
+
+        </Grid>
+        <Grid x:Name="MyGrid">
+       
+            <marcas:IB_DATOS_VUELO_CTRL  x:Name="Rectangulo"  Margin="0,0,-156,-7" PreviewMouseDown="Rectangulo_PreviewMouseDown" PreviewMouseLeftButtonUp="Rectangulo_PreviewMouseLeftButtonUp" PreviewMouseMove="Rectangulo_PreviewMouseMove" MouseLeave="Rectangulo_MouseLeave" RaiseCustomEvent="Rectangulo_RaiseCustomEvent"></marcas:IB_DATOS_VUELO_CTRL>
+        </Grid>
+
+        <Canvas>
+            <Line Name="m_Linea" Margin="10,10,-156,0" UseLayoutRounding="False"  Stroke="#DF065AEE"></Line>
+        </Canvas>
+
+    </Grid>
+   
+
+</UserControl>

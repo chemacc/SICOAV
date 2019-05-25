@@ -1,0 +1,45 @@
+﻿<UserControl x:Class="SICOAV_A.Info.InfoVuelo_A"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SICOAV_A.Info"
+             mc:Ignorable="d" Height="21.8" Width="491.146" Foreground="#FFA29797">
+    <Grid Margin="3,3,0,0" Background="#B2FFB900">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="57*"/>
+            <ColumnDefinition Width="57*"/>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="36*"/>
+            <ColumnDefinition Width="36*"/>
+            <ColumnDefinition Width="73*"/>
+            <ColumnDefinition Width="63*"/>
+            <ColumnDefinition Width="35*"/>
+            <ColumnDefinition Width="16*"/>
+            <ColumnDefinition Width="39*"/>
+            <ColumnDefinition Width="51*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="15*"/>
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="txt_inidicativo" TextWrapping="Wrap" Text="AEA063" Foreground="Black" FontFamily="SimSun" TextAlignment="Center" Grid.Row="1" ToolTip="Indicativo de llamada" FontWeight="Bold"/>
+        <TextBlock x:Name="txt_numvuelo" TextWrapping="Wrap" Text="B-16340" Foreground="Black" FontFamily="SimSun" TextAlignment="Center" Grid.Row="1" Grid.Column="1" ToolTip="Numero de vuelo"/>
+        <TextBlock x:Name="txt_salida" TextWrapping="Wrap" Text="NRT" Foreground="Black" FontFamily="SimSun" TextAlignment="Center" Grid.Row="1" Grid.Column="3" ToolTip="Aeropuerto origen (IATA)"/>
+        <TextBlock x:Name="txt_llegada" TextWrapping="Wrap" Text="MAD" Foreground="Black" FontFamily="SimSun" TextAlignment="Center" Grid.Row="1" Grid.Column="4" ToolTip="Aeropuerto destino (IATA)"/>
+        <TextBlock x:Name="txt_radar" TextWrapping="Wrap" Text="T-RJFK1" Foreground="Black" FontFamily="SimSun" TextAlignment="Center" Grid.Row="1" Grid.Column="5" Margin="0,0,1,0" ToolTip="Radar"/>
+        <TextBlock x:Name="txt_radar_Copy" TextWrapping="Wrap" Text="8990C7" Foreground="#FF0097FF" FontFamily="SimSun" TextAlignment="Center" Grid.Row="1" Grid.Column="6" Margin="0,0,2,0" ToolTip="SSR MODE S"/>
+        <Image x:Name="img_plandeVuelo" Grid.Column="10" Source="/SICOAV_A;component/imagenes/icons8-air-pilot-hat-48.png" Cursor="Hand" Grid.RowSpan="2" RenderTransformOrigin="0.5,0.5" Margin="0,0,1,0" ToolTip="Ver planes de vuelo" MouseDown="img_plandeVuelo_MouseDown">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.272"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="imagen_avion" Grid.Column="9" HorizontalAlignment="Left" Height="18" Grid.Row="1" VerticalAlignment="Top" Width="26" Source="/SICOAV_A;component/imagenes/icons8-collect-48.png" Cursor="Hand" ToolTip="Centrar avion" MouseDown="imagen_avion_MouseDown"/>
+
+    </Grid>
+</UserControl>

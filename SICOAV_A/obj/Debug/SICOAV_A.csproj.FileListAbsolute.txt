@@ -1,0 +1,342 @@
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\SICOAV_A.exe.config
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\SICOAV_A.exe
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\SICOAV_A.pdb
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\GMap.NET.Core.dll
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\GMap.NET.Core.pdb
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\GMap.NET.WindowsPresentation.pdb
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.csprojResolveAssemblyReference.cache
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\MainWindow.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\App.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A_MarkupCompile.cache
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A_MarkupCompile.lref
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\MainWindow.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.g.resources
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.Properties.Resources.resources
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.csproj.GenerateResource.Cache
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.csproj.CoreCompileInputs.cache
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.exe
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.pdb
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\IB_CTRL_SICOAV.dll
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\IB_CTRL_SICOAV.pdb
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\CustomMarkerRed.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\CustomMarkerRed.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\UserControl1.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\UserControl1.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_DATOS_VUELO_CTRL.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_DATOS_VUELO_CTRL.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\InfoVuelo_A.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\InfoVuelo_A.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\CTRL_AEROPUERTO_A.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\CTRL_AEROPUERTO_A.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_AEROPUERTO.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_AEROPUERTO.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_PLANDEVUELO.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_PLANDEVUELO.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_MARCA_RUTA.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_MARCA_RUTA.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_ALERTA.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_ALERTA.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\Newtonsoft.Json.dll
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\Newtonsoft.Json.xml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[00] SICOAV\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\Newtonsoft.Json.pdb
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\SICOAV_A.exe.config
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\SICOAV_A.exe
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\SICOAV_A.pdb
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\GMap.NET.Core.dll
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\IB_CTRL_SICOAV.dll
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\Newtonsoft.Json.dll
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\GMap.NET.Core.pdb
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\GMap.NET.WindowsPresentation.pdb
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\IB_CTRL_SICOAV.pdb
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\CustomMarkerRed.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_AEROPUERTO.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_ALERTA.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_PLANDEVUELO.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\InfoVuelo_A.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\MainWindow.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\CTRL_AEROPUERTO_A.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\CustomMarkerRed.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_MARCA_RUTA.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_DATOS_VUELO_CTRL.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\UserControl1.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\App.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A_MarkupCompile.cache
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A_MarkupCompile.lref
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_AEROPUERTO.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_ALERTA.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_PLANDEVUELO.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\InfoVuelo_A.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\MainWindow.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\CTRL_AEROPUERTO_A.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_MARCA_RUTA.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_DATOS_VUELO_CTRL.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\UserControl1.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.g.resources
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.Properties.Resources.resources
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.csproj.GenerateResource.Cache
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.csproj.CoreCompileInputs.cache
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.exe
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.pdb
+D:\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.csprojAssemblyReference.cache
+D:\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\CustomMarkerRed.baml
+D:\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_AEROPUERTO.g.cs
+D:\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_ALERTA.g.cs
+D:\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_PLANDEVUELO.g.cs
+D:\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\InfoVuelo_A.g.cs
+D:\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\MainWindow.g.cs
+D:\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\CTRL_AEROPUERTO_A.g.cs
+D:\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\CustomMarkerRed.g.cs
+D:\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_MARCA_RUTA.g.cs
+D:\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_DATOS_VUELO_CTRL.g.cs
+D:\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\UserControl1.g.cs
+D:\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\App.g.cs
+D:\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A_MarkupCompile.cache
+D:\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A_MarkupCompile.lref
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\SICOAV_A.exe.config
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\SICOAV_A.exe
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\SICOAV_A.pdb
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\GMap.NET.Core.dll
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\GMap.NET.WindowsPresentation.dll
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\IB_CTRL_SICOAV.dll
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\Newtonsoft.Json.dll
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\GMap.NET.Core.pdb
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\GMap.NET.WindowsPresentation.pdb
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\IB_CTRL_SICOAV.pdb
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.csprojResolveAssemblyReference.cache
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_AEROPUERTO.g.cs
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_ALERTA.g.cs
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_PLANDEVUELO.g.cs
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\InfoVuelo_A.g.cs
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\MainWindow.g.cs
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\CTRL_AEROPUERTO_A.g.cs
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\CustomMarkerRed.g.cs
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_MARCA_RUTA.g.cs
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_DATOS_VUELO_CTRL.g.cs
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\UserControl1.g.cs
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\App.g.cs
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A_MarkupCompile.cache
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A_MarkupCompile.lref
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_AEROPUERTO.baml
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_ALERTA.baml
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_PLANDEVUELO.baml
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\InfoVuelo_A.baml
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\MainWindow.baml
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\CTRL_AEROPUERTO_A.baml
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\CustomMarkerRed.baml
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_MARCA_RUTA.baml
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_DATOS_VUELO_CTRL.baml
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\UserControl1.baml
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.g.resources
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.Properties.Resources.resources
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.csproj.GenerateResource.Cache
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.csproj.CoreCompileInputs.cache
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.exe
+F:\Nueva carpeta\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.pdb
+G:\greatmaps\SICOAV_A\bin\Debug\SICOAV_A.exe.config
+G:\greatmaps\SICOAV_A\bin\Debug\SICOAV_A.exe
+G:\greatmaps\SICOAV_A\bin\Debug\SICOAV_A.pdb
+G:\greatmaps\SICOAV_A\bin\Debug\GMap.NET.Core.dll
+G:\greatmaps\SICOAV_A\bin\Debug\GMap.NET.WindowsPresentation.dll
+G:\greatmaps\SICOAV_A\bin\Debug\IB_CTRL_SICOAV.dll
+G:\greatmaps\SICOAV_A\bin\Debug\Newtonsoft.Json.dll
+G:\greatmaps\SICOAV_A\bin\Debug\GMap.NET.Core.pdb
+G:\greatmaps\SICOAV_A\bin\Debug\GMap.NET.WindowsPresentation.pdb
+G:\greatmaps\SICOAV_A\bin\Debug\IB_CTRL_SICOAV.pdb
+G:\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.csprojResolveAssemblyReference.cache
+G:\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_AEROPUERTO.g.cs
+G:\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_ALERTA.g.cs
+G:\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_PLANDEVUELO.g.cs
+G:\greatmaps\SICOAV_A\obj\Debug\Info\InfoVuelo_A.g.cs
+G:\greatmaps\SICOAV_A\obj\Debug\MainWindow.g.cs
+G:\greatmaps\SICOAV_A\obj\Debug\Marcas\CTRL_AEROPUERTO_A.g.cs
+G:\greatmaps\SICOAV_A\obj\Debug\Marcas\CustomMarkerRed.g.cs
+G:\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_COLISION.g.cs
+G:\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_MARCA_RUTA.g.cs
+G:\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_DATOS_VUELO_CTRL.g.cs
+G:\greatmaps\SICOAV_A\obj\Debug\Marcas\UserControl1.g.cs
+G:\greatmaps\SICOAV_A\obj\Debug\App.g.cs
+G:\greatmaps\SICOAV_A\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\greatmaps\SICOAV_A\obj\Debug\SICOAV_A_MarkupCompile.cache
+G:\greatmaps\SICOAV_A\obj\Debug\SICOAV_A_MarkupCompile.lref
+G:\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_AEROPUERTO.baml
+G:\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_ALERTA.baml
+G:\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_PLANDEVUELO.baml
+G:\greatmaps\SICOAV_A\obj\Debug\Info\InfoVuelo_A.baml
+G:\greatmaps\SICOAV_A\obj\Debug\MainWindow.baml
+G:\greatmaps\SICOAV_A\obj\Debug\Marcas\CTRL_AEROPUERTO_A.baml
+G:\greatmaps\SICOAV_A\obj\Debug\Marcas\CustomMarkerRed.baml
+G:\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_COLISION.baml
+G:\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_MARCA_RUTA.baml
+G:\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_DATOS_VUELO_CTRL.baml
+G:\greatmaps\SICOAV_A\obj\Debug\Marcas\UserControl1.baml
+G:\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.g.resources
+G:\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.Properties.Resources.resources
+G:\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.csproj.GenerateResource.Cache
+G:\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.csproj.CoreCompileInputs.cache
+G:\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.exe
+G:\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.pdb
+G:\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_COLISION_INFO.g.cs
+G:\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_COLISION_INFO.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\SICOAV_A.exe.config
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\SICOAV_A.exe
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\SICOAV_A.pdb
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\GMap.NET.Core.dll
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\IB_CTRL_SICOAV.dll
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\GMap.NET.Core.pdb
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\GMap.NET.WindowsPresentation.pdb
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\bin\Debug\IB_CTRL_SICOAV.pdb
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.csprojAssemblyReference.cache
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_AEROPUERTO.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_ALERTA.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_COLISION_INFO.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_PLANDEVUELO.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\InfoVuelo_A.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\MainWindow.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\CTRL_AEROPUERTO_A.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\CustomMarkerRed.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_COLISION.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_MARCA_RUTA.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_DATOS_VUELO_CTRL.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\UserControl1.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Cerrar.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Maximiza.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Minimizar.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Vistas\IB_VISTA_Planes_de_vuelo.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\App.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A_MarkupCompile.cache
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A_MarkupCompile.lref
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_AEROPUERTO.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_ALERTA.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_COLISION_INFO.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_PLANDEVUELO.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\InfoVuelo_A.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\MainWindow.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\CTRL_AEROPUERTO_A.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\CustomMarkerRed.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_COLISION.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_MARCA_RUTA.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_DATOS_VUELO_CTRL.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\UserControl1.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Cerrar.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Maximiza.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Minimizar.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Vistas\IB_VISTA_Planes_de_vuelo.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.g.resources
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.Properties.Resources.resources
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.csproj.GenerateResource.cache
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.csproj.CopyComplete
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.exe
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.pdb
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SERVER\VISTAS\IB_VISTA_SERVER_Identificacion.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SERVER\VISTAS\IB_VISTA_SERVER_Identificacion.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_MARCA_Posicion.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_MARCA_Posicion.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Reloj.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Reloj.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Controles\IB_CTRL_PanelAvion_A.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Controles\IB_CTRL_PanelAvion_A.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Controles\IB_CTRL_BTN_MenuPP.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Controles\IB_CTRL_BTN_MenuPP.baml
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Controles\IB_CTRL_PanelAeropuerto.g.cs
+C:\Users\IEUser\Desktop\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Controles\IB_CTRL_PanelAeropuerto.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Controles\IB_CTRL_BTN_MenuPP.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Controles\IB_CTRL_PanelAeropuerto.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Controles\IB_CTRL_PanelAvion_A.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_COLISION_INFO.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_COLISION.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_MARCA_Posicion.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SERVER\VISTAS\IB_VISTA_SERVER_Identificacion.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Cerrar.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Maximiza.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Minimizar.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Reloj.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Vistas\IB_VISTA_Planes_de_vuelo.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Controles\IB_CTRL_BTN_MenuPP.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Controles\IB_CTRL_PanelAeropuerto.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Controles\IB_CTRL_PanelAvion_A.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Info\IB_CTRL_COLISION_INFO.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_COLISION.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Marcas\IB_CTRL_MARCA_Posicion.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SERVER\VISTAS\IB_VISTA_SERVER_Identificacion.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Cerrar.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Maximiza.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Minimizar.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Reloj.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Vistas\IB_VISTA_Planes_de_vuelo.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Controles\IB_CTRL_CNF_Colisiones.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\Controles\IB_CTRL_CNF_Colisiones.baml
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.csprojAssemblyReference.cache
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Debug\SICOAV_A.csproj.CopyComplete
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Controles\IB_CTRL_BTN_MenuPP.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Controles\IB_CTRL_CNF_Colisiones.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Controles\IB_CTRL_PanelAeropuerto.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Controles\IB_CTRL_PanelAvion_A.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Info\IB_CTRL_AEROPUERTO.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Info\IB_CTRL_ALERTA.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Info\IB_CTRL_COLISION_INFO.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Info\IB_CTRL_PLANDEVUELO.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Info\InfoVuelo_A.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Marcas\CTRL_AEROPUERTO_A.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Marcas\CustomMarkerRed.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Marcas\IB_CTRL_COLISION.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Marcas\IB_CTRL_MARCA_Posicion.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Marcas\IB_CTRL_MARCA_RUTA.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Marcas\IB_DATOS_VUELO_CTRL.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Marcas\UserControl1.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\SERVER\VISTAS\IB_VISTA_SERVER_Identificacion.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Cerrar.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Maximiza.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Minimizar.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Reloj.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Vistas\IB_VISTA_Planes_de_vuelo.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\App.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\SICOAV_A_MarkupCompile.cache
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\SICOAV_A_MarkupCompile.lref
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\SICOAV_A.exe
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\SICOAV_A.pdb
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\bin\Debug\SICOAV_A.exe.config
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\bin\Debug\SICOAV_A.exe
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\bin\Debug\SICOAV_A.pdb
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\bin\Debug\GMap.NET.Core.dll
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\bin\Debug\IB_CTRL_SICOAV.dll
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\bin\Debug\Newtonsoft.Json.dll
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\MainWindow.g.cs
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Controles\IB_CTRL_BTN_MenuPP.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Controles\IB_CTRL_CNF_Colisiones.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Controles\IB_CTRL_PanelAeropuerto.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Controles\IB_CTRL_PanelAvion_A.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Info\IB_CTRL_AEROPUERTO.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Info\IB_CTRL_ALERTA.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Info\IB_CTRL_COLISION_INFO.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Info\IB_CTRL_PLANDEVUELO.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Info\InfoVuelo_A.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\MainWindow.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Marcas\CTRL_AEROPUERTO_A.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Marcas\CustomMarkerRed.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Marcas\IB_CTRL_COLISION.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Marcas\IB_CTRL_MARCA_Posicion.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Marcas\IB_CTRL_MARCA_RUTA.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Marcas\IB_DATOS_VUELO_CTRL.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Marcas\UserControl1.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\SERVER\VISTAS\IB_VISTA_SERVER_Identificacion.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Cerrar.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Maximiza.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Minimizar.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Vistas\IB_CTRL_VISTA_Reloj.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\Vistas\IB_VISTA_Planes_de_vuelo.baml
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\SICOAV_A.g.resources
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\SICOAV_A.Properties.Resources.resources
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\SICOAV_A.csproj.GenerateResource.cache
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\SICOAV_A.csproj.CoreCompileInputs.cache
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\SICOAV_A.csproj.CopyComplete

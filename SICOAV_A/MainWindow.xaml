@@ -1,0 +1,63 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SICOAV_A"
+        xmlns:WindowsPresentation="clr-namespace:GMap.NET.WindowsPresentation;assembly=GMap.NET.WindowsPresentation" xmlns:Recursos="clr-namespace:SICOAV_A.Recursos" xmlns:controles="clr-namespace:IB_CTRL_SICOAV.controles;assembly=IB_CTRL_SICOAV" xmlns:Info="clr-namespace:SICOAV_A.Info" xmlns:Controles="clr-namespace:SICOAV_A.Controles" x:Class="SICOAV_A.MainWindow"
+        mc:Ignorable="d"
+        Title="SICOAV 1.0 Beta" Height="864.924" Width="1463.127" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowState="Maximized" WindowStyle="None">
+    <Grid Margin="0,0,0,0">
+
+
+        <Recursos:Map x:Name="MainMap" Zoom="20" MaxZoom="24" MinZoom="1" Margin="0,0,0,0"/>
+
+        <WrapPanel x:Name="wrapPanel_vuelos" Margin="86,35,953,53" Orientation="Vertical"/>
+        <WrapPanel x:Name="wrapPanel_aeropuertos" Margin="86,35,953,53" Orientation="Vertical"/>
+        <WrapPanel x:Name="wrapPanel_configuracion" Margin="86,35,953,53" Orientation="Vertical"/>
+
+        <Grid HorizontalAlignment="Right" Width="402" Margin="0,0,10,10" Height="82" VerticalAlignment="Bottom" Visibility="Collapsed">
+            <TextBlock  Text="Coordenadas" Foreground="#FF2B2B2B" Height="26" FontFamily="Verdana Pro" Margin="117,28,95,28"/>
+            <TextBlock x:Name="lbl_latitud" Text="54º 45' 23'' N" FontFamily="Arial Nova Cond" Foreground="#FF62AA5C" FontSize="18" Height="26" Margin="257,56,10,0"/>
+            <TextBlock x:Name="lbl_longitud" Text="54º 45' 23'' N" FontSize="18" FontFamily="Arial Nova Cond" Foreground="#FF62AA5C" Height="27" Margin="117,55,150,0" />
+        </Grid>
+
+
+
+
+
+
+
+
+        <WrapPanel x:Name="panel_zoom" Margin="10,0,945,10" Height="38" VerticalAlignment="Bottom">
+            <controles:SIVOAV_GIS_CTRL_A Height="30" Texto="MAP" Width="49" OnMaximum="SIVOAV_GIS_CTRL_A_OnMaximum" Active="True" />
+            <controles:SIVOAV_GIS_CTRL_A Height="30" Texto="SAT" Width="49" OnMaximum="SIVOAV_GIS_CTRL_A_OnMaximum_1"/>
+            <controles:SIVOAV_GIS_CTRL_A Height="30" Texto="HIB" Width="49" OnMaximum="SIVOAV_GIS_CTRL_A_OnMaximum_2"/>
+            <controles:SIVOAV_GIS_CTRL_A Height="30" Texto="TER" Width="49" OnMaximum="SIVOAV_GIS_CTRL_A_OnMaximum_3"/>
+            <controles:SIVOAV_GIS_CTRL_A Height="30" Texto="CLR" Width="49" OnMaximum="SIVOAV_GIS_CTRL_A_OnMaximum_4"/>
+
+        </WrapPanel>
+        <WrapPanel x:Name="panel_mapas" HorizontalAlignment="Left" Height="30" Margin="10,0,0,0" VerticalAlignment="Top" Width="500">
+            <controles:SIVOAV_GIS_CTRL_B Height="100" Texto="ADS-B" Width="100" OnMaximum="SIVOAV_GIS_CTRL_B_OnMaximum"/>
+            <controles:SIVOAV_GIS_CTRL_B Height="100" Texto="FIR MADRID" Width="100" OnMaximum="SIVOAV_GIS_CTRL_B_OnMaximum_1"/>
+            <controles:SIVOAV_GIS_CTRL_B Height="100" Texto="FIR BARCELONA" Width="100" OnMaximum="SIVOAV_GIS_CTRL_B_OnMaximum_2"/>
+            <controles:SIVOAV_GIS_CTRL_B Height="100" Texto="FIR CANARIAS" Width="100" OnMaximum="SIVOAV_GIS_CTRL_B_OnMaximum_3"/>
+            <controles:SIVOAV_GIS_CTRL_B Height="100" Texto="COLISIONES" Width="100" OnMaximum="SIVOAV_GIS_CTRL_B_OnMaximum_4"/>
+
+        </WrapPanel>
+        <StackPanel x:Name="panel_error" Margin="608,308,412,378" Orientation="Vertical">
+            <Info:IB_CTRL_ALERTA x:Name="Panel_alerta" HorizontalAlignment="Left" Height="148" VerticalAlignment="Top" Width="435" Visibility="Collapsed" />
+        </StackPanel>
+        <WrapPanel x:Name="wrapBonotonera" Margin="10,35,0,0" Orientation="Vertical" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="71" Height="777" VerticalAlignment="Top">
+            <Controles:IB_CTRL_BTN_MenuPP Height="60" Width="70"/>
+            <Controles:IB_CTRL_BTN_MenuPP Height="60" Width="70"/>
+            <Controles:IB_CTRL_BTN_MenuPP Height="60" Width="70"/>
+            <Controles:IB_CTRL_BTN_MenuPP Height="60" Width="70"/>
+            <Controles:IB_CTRL_BTN_MenuPP Height="60" Width="70"/>
+            <Controles:IB_CTRL_BTN_MenuPP Height="60" Width="70"/>
+        </WrapPanel>
+
+
+
+    </Grid>
+</Window>

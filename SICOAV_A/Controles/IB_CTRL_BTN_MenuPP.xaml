@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="SICOAV_A.Controles.IB_CTRL_BTN_MenuPP"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SICOAV_A.Controles"
+             mc:Ignorable="d" 
+             Height="60" Width="70" MouseEnter="UserControl_MouseEnter" MouseLeave="UserControl_MouseLeave" MouseDown="UserControl_MouseDown">
+    <Grid x:Name="gridpp" Background="#FFB6B6B6" Margin="0,0,0,7">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="14"/>
+            <ColumnDefinition Width="43*"/>
+            <ColumnDefinition Width="14*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="38*"/>
+            <RowDefinition Height="15*"/>
+        </Grid.RowDefinitions>
+        <Rectangle x:Name="Rectangulo" Stroke="#FF669502" Grid.RowSpan="2" Grid.ColumnSpan="3" StrokeThickness="2" Visibility="Collapsed"/>
+        <TextBlock x:Name="txt_titulo" TextWrapping="Wrap" Text="AER4567" Foreground="#FF7BB402" FontFamily="Typewriter" FontSize="14" TextAlignment="Center" Grid.ColumnSpan="3" Margin="0,36,0,0" Grid.RowSpan="2"/>
+        <Image x:Name="Imagen" Grid.Column="1" Margin="0,4,0,0" Source="/SICOAV_A;component/imagenes/icons8-strategy-filled-100.png"/>
+
+    </Grid>
+</UserControl>

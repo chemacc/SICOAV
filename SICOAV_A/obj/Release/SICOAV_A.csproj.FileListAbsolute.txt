@@ -1,0 +1,16 @@
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Release\SICOAV_A.csprojResolveAssemblyReference.cache
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Release\Info\IB_CTRL_AEROPUERTO.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Release\Info\IB_CTRL_ALERTA.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Release\Info\IB_CTRL_COLISION.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Release\Info\IB_CTRL_PLANDEVUELO.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Release\Info\InfoVuelo_A.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Release\MainWindow.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Release\Marcas\CTRL_AEROPUERTO_A.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Release\Marcas\CustomMarkerRed.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Release\Marcas\IB_CTRL_MARCA_RUTA.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Release\Marcas\IB_DATOS_VUELO_CTRL.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Release\Marcas\UserControl1.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Release\App.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Release\SICOAV_A_MarkupCompile.cache
+C:\Operaciones\[01] IBERICA2000\[E] 2018\[01] SICOAV-II\[A] SICOAV_SOFT\greatmaps\SICOAV_A\obj\Release\SICOAV_A_MarkupCompile.lref

@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="SICOAV_A.Info.IB_CTRL_ALERTA"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SICOAV_A.Info"
+             mc:Ignorable="d" Height="228" Width="451" MouseDown="UserControl_MouseDown">
+    <Grid Background="#FFA68207">
+        <Rectangle Fill="#FFF7D604" Height="26" VerticalAlignment="Bottom"/>
+        <Image HorizontalAlignment="Left" Height="57" VerticalAlignment="Top" Width="53" Source="/SICOAV_A;component/imagenes/icons8-error-48.png"/>
+        <TextBlock x:Name="txt_titulo" Height="25" Margin="90,10,10,0" TextWrapping="Wrap" Text="ALERTA" VerticalAlignment="Top" FontFamily="SimSun" FontSize="22" Foreground="White" TextAlignment="Center"/>
+        <TextBlock x:Name="txt_error" Margin="78,46,10,31" TextWrapping="Wrap" Text="TextBlock" FontFamily="SimSun" FontSize="16"/>
+
+    </Grid>
+</UserControl>
