@@ -69,6 +69,7 @@ namespace SICOAV_A
         //internal readonly GMapOverlay polygons = new GMapOverlay("polygons");
         private ObservableCollection<GMapMarker> objects = new ObservableCollection<GMapMarker>();
 
+        
         public MainWindow()
         {
             InitializeComponent();
@@ -342,6 +343,7 @@ namespace SICOAV_A
             MainMap.Zoom = 13;
             MainMap.Manager.Mode = AccessMode.ServerAndCache;
             MainMap.MouseWheelZoomType = MouseWheelZoomType.MousePositionWithoutCenter;
+            MainMap.MouseDoubleClick += MainMap_MouseDoubleClick;
 
             GMapLineaTexto A = new GMapLineaTexto(new PointLatLng(40.127062133198081, -5.7009474188089371), new PointLatLng(40.197062133198081, -5.6009474188089371), "hola");
             A.RegenerateShape(MainMap);
@@ -359,6 +361,11 @@ namespace SICOAV_A
             InicializaCargaRegiones();
 
             InicializaWorkPlanes();
+            
+        }
+
+        private void MainMap_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
             
         }
 
@@ -856,7 +863,9 @@ namespace SICOAV_A
                         //(marker as GMarkerArrow).Bearing = d.bearing;
                     }
 
-                    
+                    ((CustomMarkerRed)(marker.Shape)).RevisaRecuadro();
+
+
                     continue;
 
                     #region # Codigo antiguo #
@@ -1201,6 +1210,7 @@ namespace SICOAV_A
                 var Tiempo = (Distancia1 / double.Parse(elemento.speed.Replace("km/h", ""))) * 60;
 
                 if (double.IsInfinity(Tiempo)) return;
+                if (double.IsNaN(Tiempo)) return;
                 
                 var TiempoLlegada = DateTime.Now.AddMinutes(Tiempo);
 
@@ -1462,8 +1472,64 @@ namespace SICOAV_A
            
         }
 
+
         #endregion
 
-        
+        private void SIVOAV_GIS_CTRL_A_OnMaximum_5(object source, MyEventArgs e)
+        {
+            if (source is SIVOAV_GIS_CTRL_A)
+            {
+                SIVOAV_GIS_CTRL_A ptr = (SIVOAV_GIS_CTRL_A)source;
+
+                IB_SGLT_Configuracion.Instance.SetVisualizarDatosAvion(ptr.Active);
+            }
+            
+        }
+
+        List<PointLatLng> m_Poligono = new List<PointLatLng>();
+
+        private void MainMap_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            var ex = (MouseEventArgs)e;
+            var punto = ex.GetPosition(this.MainMap);
+
+            double X = MainMap.FromLocalToLatLng(punto.X, punto.Y).Lng;
+            double Y = MainMap.FromLocalToLatLng(punto.X, punto.Y).Lat;
+
+            m_Poligono.Add(new PointLatLng(Y, X));
+
+            GMapLineaTexto tyipo;
+
+            List<GMapLineaTexto> lista_puntos = new List<GMapLineaTexto>(); 
+
+            foreach (GMapMarker elemento in MainMap.Markers)
+            {
+                if (elemento is GMapLineaTexto)
+                    lista_puntos.Add((GMapLineaTexto)elemento);
+            }
+
+            foreach (GMapLineaTexto elemento in lista_puntos)
+            {
+                MainMap.Markers.Remove(elemento);
+            }
+
+           
+            if (m_Poligono.Count > 1)
+            {
+                for(int index=0; index < m_Poligono.Count - 1; index ++)
+                {
+                    GMapLineaTexto LineaParti = new GMapLineaTexto(m_Poligono[index], m_Poligono[index+1], "Hola");
+                    LineaParti.RegenerateShape(MainMap);
+                    MainMap.Markers.Add(LineaParti);
+                }
+            }
+
+             
+        }
+
+        private void MainMap_MouseMove_1(object sender, MouseEventArgs e)
+        {
+             
+        }
     }
 }

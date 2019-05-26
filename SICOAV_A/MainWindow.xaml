@@ -10,7 +10,7 @@
     <Grid Margin="0,0,0,0">
 
 
-        <Recursos:Map x:Name="MainMap" Zoom="20" MaxZoom="24" MinZoom="1" Margin="0,0,0,0"/>
+        <Recursos:Map x:Name="MainMap" Zoom="20" MaxZoom="24" MinZoom="1" Margin="0,0,0,0" MouseDown="MainMap_MouseDown" MouseMove="MainMap_MouseMove_1"/>
 
         <WrapPanel x:Name="wrapPanel_vuelos" Margin="86,35,953,53" Orientation="Vertical"/>
         <WrapPanel x:Name="wrapPanel_aeropuertos" Margin="86,35,953,53" Orientation="Vertical"/>
@@ -29,13 +29,16 @@
 
 
 
-        <WrapPanel x:Name="panel_zoom" Margin="10,0,945,10" Height="38" VerticalAlignment="Bottom">
+        <WrapPanel x:Name="panel_zoom" Margin="10,0,1148,10" Height="38" VerticalAlignment="Bottom">
             <controles:SIVOAV_GIS_CTRL_A Height="30" Texto="MAP" Width="49" OnMaximum="SIVOAV_GIS_CTRL_A_OnMaximum" Active="True" />
             <controles:SIVOAV_GIS_CTRL_A Height="30" Texto="SAT" Width="49" OnMaximum="SIVOAV_GIS_CTRL_A_OnMaximum_1"/>
             <controles:SIVOAV_GIS_CTRL_A Height="30" Texto="HIB" Width="49" OnMaximum="SIVOAV_GIS_CTRL_A_OnMaximum_2"/>
             <controles:SIVOAV_GIS_CTRL_A Height="30" Texto="TER" Width="49" OnMaximum="SIVOAV_GIS_CTRL_A_OnMaximum_3"/>
             <controles:SIVOAV_GIS_CTRL_A Height="30" Texto="CLR" Width="49" OnMaximum="SIVOAV_GIS_CTRL_A_OnMaximum_4"/>
 
+        </WrapPanel>
+        <WrapPanel HorizontalAlignment="Left" Margin="315,0,0,10" Width="375" Height="38" VerticalAlignment="Bottom">
+            <controles:SIVOAV_GIS_CTRL_A Height="30" Texto="DATOS" Width="55" OnMaximum="SIVOAV_GIS_CTRL_A_OnMaximum_5" Active="True" />
         </WrapPanel>
         <WrapPanel x:Name="panel_mapas" HorizontalAlignment="Left" Height="30" Margin="10,0,0,0" VerticalAlignment="Top" Width="500">
             <controles:SIVOAV_GIS_CTRL_B Height="100" Texto="ADS-B" Width="100" OnMaximum="SIVOAV_GIS_CTRL_B_OnMaximum"/>
@@ -56,6 +59,7 @@
             <Controles:IB_CTRL_BTN_MenuPP Height="60" Width="70"/>
             <Controles:IB_CTRL_BTN_MenuPP Height="60" Width="70"/>
         </WrapPanel>
+
 
 
 

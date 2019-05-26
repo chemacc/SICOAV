@@ -340,3 +340,4 @@ C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\SICOAV_A.Properties.Re
 C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\SICOAV_A.csproj.GenerateResource.cache
 C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\SICOAV_A.csproj.CoreCompileInputs.cache
 C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\SICOAV_A.csproj.CopyComplete
+C:\Users\josem\Documents\GitHub\SICOAV\SICOAV_A\obj\Debug\SICOAV_A.csprojAssemblyReference.cache

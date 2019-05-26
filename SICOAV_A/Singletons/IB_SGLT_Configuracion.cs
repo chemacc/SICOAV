@@ -15,7 +15,7 @@ namespace SICOAV_A.Singletons
         private static double m_distanciamincolision = 100;
         private static int m_distanciaminentreaviones = 46500;
         private static int m_alturaminimacolision = 9600;
-
+        private static bool m_visualiza_datos_avion = true;
 
         private static string m_pais = "NO_PAIS";
 
@@ -76,6 +76,20 @@ namespace SICOAV_A.Singletons
         }
 
         #endregion Colisión
+
+        #region - MAPA -
+
+        internal bool GetVisualizarDatosAvion()
+        {
+            return m_visualiza_datos_avion;
+        }
+
+        internal void SetVisualizarDatosAvion(bool p_value)
+        {
+            m_visualiza_datos_avion = p_value;
+        }
+
+        #endregion
     }
 
     

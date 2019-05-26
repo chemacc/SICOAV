@@ -18,16 +18,16 @@
             <ColumnDefinition Width="10*"/>
             <ColumnDefinition Width="42*"/>
         </Grid.ColumnDefinitions>
-        <TextBlock x:Name="txt_nombre_vuelo" Grid.Column="2" TextWrapping="Wrap" Text="AE345TG34" Foreground="#FFFFB900" FontFamily="SimSun-ExtB" TextAlignment="Right" Margin="0,0,1,0" Grid.ColumnSpan="2"/>
-        <TextBlock x:Name="txt_rumbo_vuelo" HorizontalAlignment="Left" TextWrapping="Wrap" Text="200" Width="39" Foreground="#FFFFB900" FontFamily="SimSun-ExtB" TextAlignment="Center"/>
-        <TextBlock x:Name="txt_velocidad_vuelo" TextWrapping="Wrap" Text="200 Km/h" Foreground="#FFFFB900" FontFamily="SimSun-ExtB" TextAlignment="Center" Grid.Column="1" Grid.Row="1" Margin="1,0,0,0" Grid.ColumnSpan="2"/>
-        <TextBlock x:Name="txt_altidud_vuelo" TextWrapping="Wrap" Text="8000 m" Foreground="#FFFFB900" FontFamily="SimSun-ExtB" Grid.Row="1" TextAlignment="Right"/>
+        <TextBlock x:Name="txt_nombre_vuelo" Grid.Column="2" TextWrapping="Wrap" Text="AE345TG34" Foreground="#FFFFB900" FontFamily="Typewriter" TextAlignment="Right" Margin="0,0,1,0" Grid.ColumnSpan="2"/>
+        <TextBlock x:Name="txt_rumbo_vuelo" HorizontalAlignment="Left" TextWrapping="Wrap" Text="200" Width="39" Foreground="#FFFFB900" FontFamily="Typewriter" TextAlignment="Center"/>
+        <TextBlock x:Name="txt_velocidad_vuelo" TextWrapping="Wrap" Text="200 Km/h" Foreground="#FFFFB900" FontFamily="Typewriter" TextAlignment="Center" Grid.Column="1" Grid.Row="1" Margin="1,0,0,0" Grid.ColumnSpan="2"/>
+        <TextBlock x:Name="txt_altidud_vuelo" TextWrapping="Wrap" Text="8000 m" Foreground="#FFFFB900" FontFamily="Typewriter" Grid.Row="1" TextAlignment="Right"/>
 
-        <TextBlock x:Name="txt_tiempo" HorizontalAlignment="Left" TextWrapping="Wrap" Text="200" Width="60" Foreground="#FFFFB900" FontFamily="SimSun-ExtB" TextAlignment="Center" Grid.Column="1"/>
+        <TextBlock x:Name="txt_tiempo" HorizontalAlignment="Left" TextWrapping="Wrap" Text="200" Width="60" Foreground="#FFFFB900" FontFamily="Typewriter" TextAlignment="Center" Grid.Column="1"/>
         <Rectangle Fill="#FFF7CA00" HorizontalAlignment="Left" Grid.RowSpan="2" StrokeThickness="2" Width="2" Margin="-1,0,0,0"/>
         <Rectangle Fill="#FFF7CA00" Grid.RowSpan="2" StrokeThickness="2" Grid.Column="3" Margin="41,0,-1,0"/>
         <Rectangle x:Name="RectangleSeleccion" Grid.RowSpan="2" Stroke="#FFC95F06" Visibility="Collapsed" Grid.Column="3" Margin="44,0,-8,0" RenderTransformOrigin="0.5,0.5" Fill="#FFC95F06">
-           
+
         </Rectangle>
         <Grid x:Name="grid_historico" Grid.Column="3" Grid.Row="1" Visibility="Hidden">
             <Rectangle x:Name="rectangle_histórico" HorizontalAlignment="Left" Height="13" StrokeThickness="2" VerticalAlignment="Top" Width="42" Fill="#FFF51111"/>

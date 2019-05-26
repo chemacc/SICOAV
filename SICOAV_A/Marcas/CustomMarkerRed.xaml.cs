@@ -7,6 +7,7 @@ using System.Windows.Shapes;
 using GMap.NET.WindowsPresentation;
 using SICOAV_A;
 using SICOAV_A.Recursos;
+using SICOAV_A.Singletons;
 
 namespace SICOAV_A.Marcas
 {
@@ -105,7 +106,14 @@ namespace SICOAV_A.Marcas
             this.Rectangulo.MouseLeave -= Rectangulo_MouseLeave;
             this.Rectangulo.PreviewMouseMove -= Rectangulo_PreviewMouseMove;
 
-            
+            if(!IB_SGLT_Configuracion.Instance.GetVisualizarDatosAvion())
+            {
+                this.Rectangulo.Visibility = Visibility.Collapsed;
+            }
+            else
+            {
+                this.Rectangulo.Visibility = Visibility.Visible;
+            }
 
             //this.MouseEnter += new MouseEventHandler(MarkerControl_MouseEnter);
             //this.MouseLeave += new MouseEventHandler(MarkerControl_MouseLeave);
@@ -127,10 +135,22 @@ namespace SICOAV_A.Marcas
             //}
             //Popup.Child = Label;
         }
-
-        
+        public void RevisaRecuadro()
+        {
+            if (!IB_SGLT_Configuracion.Instance.GetVisualizarDatosAvion())
+            {
+                this.Rectangulo.Visibility = Visibility.Collapsed;
+                m_Linea.Visibility = Visibility.Collapsed;
+            }
+            else
+            {
+                this.Rectangulo.Visibility = Visibility.Visible;
+                m_Linea.Visibility = Visibility.Visible;
+            }
+        }
         private void MainMap_OnMapZoomChanged()
         {
+
             if (this.MainWindow.MainMap.Zoom == 12)
             {
                 this.Visibility = Visibility.Visible;
@@ -153,6 +173,7 @@ namespace SICOAV_A.Marcas
         {
             // De esta manera tenemos el punto en el centro.
 
+            
             Marker.Offset = new Point(-e.NewSize.Width / 2, -e.NewSize.Height / 2);
         }
 
