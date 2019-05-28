@@ -1490,6 +1490,9 @@ namespace SICOAV_A
 
         private void MainMap_MouseDown(object sender, MouseButtonEventArgs e)
         {
+            return;
+
+            // [CHEMA][NOTA]
             var ex = (MouseEventArgs)e;
             var punto = ex.GetPosition(this.MainMap);
 

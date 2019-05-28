@@ -99,7 +99,7 @@ namespace SICOAV_A.Controles
         {
             var altura = IB_SGLT_Configuracion.Instance.GetDistanciaMinimaColicion();
 
-            altura = altura + 100;
+            altura = altura + 1;
 
             if (altura >= 100000)
             {
@@ -115,7 +115,7 @@ namespace SICOAV_A.Controles
         {
             var altura = IB_SGLT_Configuracion.Instance.GetDistanciaMinimaColicion();
 
-            altura = altura - 100;
+            altura = altura - 1;
 
             if (altura <= 0)
             {
